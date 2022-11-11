@@ -4,7 +4,10 @@
             <pages>
                 <Page id="page" title="{i18n>title}">
                     <content>
-                        
+                        <HBox>
+                            <Label id="labelEmployee" labelFor="inputEmployee" text="{i18n>labelEmployee}" class="sapUiSmallMargin"/>
+                            <Input id="inputEmployee" maxLength="10" width="200px" class="sapUiSmallMarginEnd"/>
+                        </HBox>
                     </content>
                 </Page>
             </pages>
