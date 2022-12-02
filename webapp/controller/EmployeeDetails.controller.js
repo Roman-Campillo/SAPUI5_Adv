@@ -1,6 +1,7 @@
 sap.ui.define([
-    "sap/ui/core/mvc/Controller"
-], function (Controller) {
+    "sap/ui/core/mvc/Controller",
+    "logaligroup/employees/model/formatter"
+], function (Controller, formatter) {
 
     function onInit() {
 
@@ -20,10 +21,33 @@ sap.ui.define([
 
     };
 
+    function onDeleteIncidence(oEvent) {
+
+        var tableIncidence = this.getView().byId("tableIncidence");
+        var rowIncidence = oEvent.getSource().getParent().getParent();
+        var incidenceModel = this.getView().getModel("incidenceModel");
+        var odata = incidenceModel.getData();
+        var contextObj =rowIncidence.getBindingContext("incidenceModel").getObject();
+
+        odata.splice(contextObj.index-1,1);
+        for (var i in odata) {
+            odata[i].index = parseInt(i) + 1;
+        };
+
+        incidenceModel.refresh();
+        tableIncidence.removeContent(rowIncidence);
+
+        for (var j in tableIncidence.getContent()){
+            tableIncidence.getContent()[j].bindElement("incidenceModel>/"+j);
+        }
+    };
+
     var EmployeeDetails = Controller.extend("logaligroup.employees.controller.EmployeeDetails", {});
 
     EmployeeDetails.prototype.onInit = onInit;
     EmployeeDetails.prototype.onCreateIncidence = onCreateIncidence;
+    EmployeeDetails.prototype.onDeleteIncidence = onDeleteIncidence;
+    EmployeeDetails.prototype.Formatter = formatter;
 
     return EmployeeDetails;
 });

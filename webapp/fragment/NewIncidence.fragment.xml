@@ -5,7 +5,10 @@
                 <core:Icon src="{= ${incidenceModel>status}==='0' ? 'accept' :
                                    ${incidenceModel>status}==='1' ? 'alert' :
                                    ${incidenceModel>status}==='2' ? 'decline' : '' }"/>
-                <Title text="{i18n>incidence} {incidenceModel>index}"></Title>
+                <Title text="{i18n>incidence} {incidenceModel>index} {path : 'incidenceModel>date', formatter:'.Formatter.dateFormat'}"></Title>
+                <ToolbarSpacer></ToolbarSpacer>
+                <core:Icon src="delete" press="onDeleteIncidence"/>
+
             </Toolbar>
         </headerToolbar>
         <content>
