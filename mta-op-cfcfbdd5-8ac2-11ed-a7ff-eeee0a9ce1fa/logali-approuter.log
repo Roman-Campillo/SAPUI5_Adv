@@ -1,0 +1,412 @@
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:28 UTC 2023] Added process: "web" (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:28 UTC 2023] Created app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:28 UTC 2023] Updating process: "web" (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:28 UTC 2023] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:29 UTC 2023] Updated app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:37 UTC 2023] Uploading app package for app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:38 UTC 2023] Updated app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:47 UTC 2023] Creating build for app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading sap_java_buildpack_1_60... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading sap_java_buildpack_1_64... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading sap_java_buildpack_1_63... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded sap_java_buildpack_1_60 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.928#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading ruby_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded sap_java_buildpack_1_63 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading dotnet_core_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading r_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded dotnet_core_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded sap_java_buildpack_1_64 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded r_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded ruby_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f creating container for instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:48 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f successfully created container for instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:49 UTC 2023] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:49 UTC 2023] Downloaded app package (6.8M) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] -----> Nodejs Buildpack version 1.8.3 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] Copy [/tmp/buildpacks/78a0401f4b0c1f9600a1b3ac267f2725/dependencies/62a635dc46247c1290627e867c5f4ed1/node_16.18.1_linux_x64_cflinuxfs3_17d46d77.tgz] (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] -----> Installing node 16.18.1 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] engines.node (package.json): ^14.0.0 || ^16.0.0 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:50 UTC 2023] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:51 UTC 2023] Copy [/tmp/buildpacks/78a0401f4b0c1f9600a1b3ac267f2725/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:51 UTC 2023] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:51 UTC 2023] Using default npm version: 8.19.2 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NODE_HOME=/tmp/contents1144192304/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] npm notice (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] npm notice Run `npm install -g npm@9.2.0` to update! (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.2.0> (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] npm notice New major version of npm available! 8.19.2 -> 9.2.0 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] npm notice (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:52 UTC 2023] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:53 UTC 2023] up to date in 535ms (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:53 UTC 2023] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:53 UTC 2023] 10 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:54 UTC 2023] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.929#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:54 UTC 2023] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 01 02 17:28:56.930#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7168###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:54 UTC 2023] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:54 UTC 2023] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:28:54 UTC 2023] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:00 UTC 2023] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:00 UTC 2023] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:00 UTC 2023] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:00 UTC 2023] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:00 UTC 2023] Uploaded build artifacts cache (216B) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:01 UTC 2023] Creating droplet for app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:05 UTC 2023] Uploaded droplet (39.8M) (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:05 UTC 2023] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:05 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f destroying container for instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:06.898#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5705###
+[PollStageAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:05 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f stopping instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:05 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f destroying container for instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:06 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f successfully destroyed container for instance ff7c8317-01ce-4069-b7bb-82af512056a8 (STDOUT, STG)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:07 UTC 2023] Updated app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 ({:droplet_guid=>"b1901cfa-1c8f-460c-9361-f5a6fefaf949"}) (STDOUT, API)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:07 UTC 2023] Creating revision for app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:07 UTC 2023] Starting app with guid 6f748e8a-d0c2-4896-9643-a0d4bdf45564 (STDOUT, API)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:07 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f creating container for instance b67e310a-50cd-4bb6-761d-9154 (STDOUT, CELL)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:08 UTC 2023] Cell e9aa27aa-5635-4e65-b14a-0ae5b04d7d5f successfully created container for instance b67e310a-50cd-4bb6-761d-9154 (STDOUT, CELL)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:08 UTC 2023] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:10 UTC 2023] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:10 UTC 2023] Downloaded droplet (39.8M) (STDOUT, CELL)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:13 UTC 2023] > node node_modules/@sap/approuter/approuter.js (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:13 UTC 2023] > start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:15 UTC 2023] {"written_at":"2023-01-02T17:29:15.031Z","written_ts":1672680555031000000,"csn_component":"-","correlation_id":"-","type":"log","logger":"nodejs-logger","layer":"/LoggingLibrary","level":"warning","container_id":"10.32.1.8","component_type":"application","component_id":"6f748e8a-d0c2-4896-9643-a0d4bdf45564","component_name":"logali-approuter","component_instance":-1,"source_instance":-1,"organization_id":"99184156-711d-4b73-b16a-82af41974af3","organization_name":"d1b8d976trial","space_id":"463db7fb-4814-4018-97e1-c8a39a31bf64","space_name":"dev","context_id":"","msg":"Dynamic log level switching not available"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:16 UTC 2023] {"written_at":"2023-01-02T17:29:16.445Z","written_ts":1672680556445000000,"csn_component":"-","correlation_id":"lcf2tdi5","type":"log","logger":"nodejs-logger","layer":"/approuter","level":"info","container_id":"10.32.1.8","component_type":"application","component_id":"6f748e8a-d0c2-4896-9643-a0d4bdf45564","component_name":"logali-approuter","component_instance":-1,"source_instance":-1,"organization_id":"99184156-711d-4b73-b16a-82af41974af3","organization_name":"d1b8d976trial","space_id":"463db7fb-4814-4018-97e1-c8a39a31bf64","space_name":"dev","context_id":"lcf2tdi5","msg":"Application router version 13.0.0"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:16 UTC 2023] {"written_at":"2023-01-02T17:29:16.529Z","written_ts":1672680556529000000,"csn_component":"-","correlation_id":"lcf2tdkh","type":"log","logger":"nodejs-logger","layer":"/Configuration","level":"info","container_id":"10.32.1.8","component_type":"application","component_id":"6f748e8a-d0c2-4896-9643-a0d4bdf45564","component_name":"logali-approuter","component_instance":-1,"source_instance":-1,"organization_id":"99184156-711d-4b73-b16a-82af41974af3","organization_name":"d1b8d976trial","space_id":"463db7fb-4814-4018-97e1-c8a39a31bf64","space_name":"dev","context_id":"lcf2tdkh","msg":"No COOKIES environment variable"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 01 02 17:29:17.014#Z#DEBUG#com.sap.cloud.lm.sl.xs2.cfcfbdd5-8ac2-11ed-a7ff-eeee0a9ce1fa.logali-approuter.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-7170###
+[PollStartAppStatusExecution] [logali-approuter] 6f748e8a-d0c2-4896-9643-a0d4bdf45564 [Mon Jan 02 17:29:16 UTC 2023] {"written_at":"2023-01-02T17:29:16.533Z","written_ts":1672680556533000000,"csn_component":"-","correlation_id":"lcf2tdkl","type":"log","logger":"nodejs-logger","layer":"/Configuration","level":"warning","container_id":"10.32.1.8","component_type":"application","component_id":"6f748e8a-d0c2-4896-9643-a0d4bdf45564","component_name":"logali-approuter","component_instance":-1,"source_instance":-1,"organization_id":"99184156-711d-4b73-b16a-82af41974af3","organization_name":"d1b8d976trial","space_id":"463db7fb-4814-4018-97e1-c8a39a31bf64","space_name":"dev","context_id":"lcf2tdkl","msg":"No authentication will be used when accessing backends. Scopes defined in routes will be ignored."} (STDOUT, APP/PROC/WEB)#
+
